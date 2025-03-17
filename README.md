@@ -35,5 +35,6 @@ python PDF-Converter.py
 Click "Select Images" to choose images
 Enter a name for the PDF
 Click "Convert to PDF" to generate the PDF
+
 🤝 Contributing
 Feel free to fork this repository and submit pull requests!
