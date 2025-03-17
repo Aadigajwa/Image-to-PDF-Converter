@@ -32,9 +32,11 @@ python PDF-Converter.py
 
 
 📌 How to Use
+
 Click "Select Images" to choose images
 Enter a name for the PDF
 Click "Convert to PDF" to generate the PDF
 
 🤝 Contributing
+
 Feel free to fork this repository and submit pull requests!
