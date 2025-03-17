@@ -17,7 +17,7 @@ A simple **Python-based GUI application** that allows users to **convert multipl
 ## 🖥️ Installation  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/Image-to-PDF-Converter.git
+   git clone https://github.com/Aadigajwa/Image-to-PDF-Converter.git
    cd Image-to-PDF-Converter
    
 2. Install dependencies:
